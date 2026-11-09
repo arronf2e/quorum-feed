@@ -1,0 +1,3 @@
+genlayer-test @ git+https://github.com/genlayerlabs/genlayer-testing-suite@v0.29
+genvm-linter @ git+https://github.com/genlayerlabs/genvm-linter@main
+pytest>=8
